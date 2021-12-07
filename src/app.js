@@ -108,3 +108,4 @@ app.listen(port, () => {
     console.log("Server is up on port " + port)
 })
 
+//nodemon src/app.js -e js,hbs
